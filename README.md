@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/seu-Brunobigo">
+  <a href="https://github.com/Brunobigo">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobigo&locale=pt-br&layout=compact&langs_count=7&theme=dark"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
@@ -26,7 +26,8 @@
 
 <img loading="lazy" src="https://tenor.com/pt-BR/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808.gif" alt="beecrowd" title="beecrowd" width="350">
 
-![Snake animation](https://github.com/Brunobigo/Brunobigo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Brunobigo/Brunobigo/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <!--
 **Brunobigo/Brunobigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
