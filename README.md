@@ -1,6 +1,18 @@
-## Hi there 👋
+<h1 align="center">
 
-<img loading="lazy" src="https://tenor.com/pt-BR/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808.gif" alt="beecrowd" title="beecrowd" width="350">
+  Olá a todos, sejam bem-vindos ao meu perfil!
+  
+  <img loading="lazy" src="https://github.com/Brunobigo/Brunobigo/blob/main/octocat-1732975070955.png" alt="beecrowd" title="beecrowd" width="350">
+  
+</h1>
+
+<div align="center">
+  
+  <a href="https://github.com/seu-Brunobigo">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobigo&locale=pt-br&layout=compact&langs_count=7&theme=dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+</div>
 
 ## Contatos:
 
@@ -12,13 +24,9 @@
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div align="center">
-  
-  <a href="https://github.com/seu-Brunobigo">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobigo&locale=pt-br&layout=compact&langs_count=7&theme=dark"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
+
+
+<img loading="lazy" src="https://tenor.com/pt-BR/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808.gif" alt="beecrowd" title="beecrowd" width="350">
 
 <!--
 **Brunobigo/Brunobigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
