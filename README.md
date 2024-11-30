@@ -24,9 +24,9 @@
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-
 <img loading="lazy" src="https://tenor.com/pt-BR/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808.gif" alt="beecrowd" title="beecrowd" width="350">
+
+![Snake animation](https://github.com/Brunobigo/Brunobigo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Brunobigo/Brunobigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
