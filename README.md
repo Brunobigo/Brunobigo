@@ -2,7 +2,17 @@
 
   Olá a todos, sejam bem-vindos ao meu perfil!
   
-  <img loading="lazy" src="https://github.com/Brunobigo/Brunobigo/blob/main/octocat-1732975070955.png" alt="beecrowd" title="beecrowd" width="350">
+  <img loading="lazy" src="https://github.com/Brunobigo/Brunobigo/blob/main/octocat-1732975070955.png" alt="beecrowd" title="beecrowd" width="350"> </br>
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>    
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   
 </h1>
 
@@ -22,11 +32,10 @@
 
 <div align="center">
   
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5551981730137" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Whatsapp%20-%2B5551981730137-white?style=flat-square&logo=whatsapp&logoColor=white&labelColor=%2325D366&color=%2325D366" target="_blank"></a>
+  <a href="https://www.instagram.com/brunointrat/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F" target="_blank"></a>
+  <a href = "mailto:contato@intratechinfo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-bigo-bueno/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2" target="_blank"></a>
 
 </div>
 
