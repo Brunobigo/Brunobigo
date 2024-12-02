@@ -16,11 +16,36 @@
   
 </h1>
 
+> [!NOTE]\
+>Me chamo Bruno Bueno, sou desenvolvedor em formação e estou em busca de novas oportunidades na área de tecnologia. Atualmente, estou focado em aprender e desenvolver minhas habilidades em programação front-end e back-end. Abaixo as linguagens que estou utilizando e sobre mim!
+
+</br>
+
 <div align="center">
   
   <a href="https://github.com/Brunobigo">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobigo&locale=pt-br&layout=compact&langs_count=7&theme=dark"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  
+</div>
+
+</br>
+
+## Sobre mim  
+- 🔭 No momento, estou desempregado, mas aberto a oportunidades e desafios na área de desenvolvimento.  
+- 🌱 Estou aprendendo tecnologias como [adicione as tecnologias que está estudando, ex: HTML, CSS, JavaScript, Node.js, etc.].  
+- 👯 No futuro, quero colaborar em projetos open source e ajudar outros desenvolvedores com o que aprendi.  
+- 🤔 Estou em busca de orientação e dicas para crescer como desenvolvedor full stack.  
+- 💬 Fique à vontade para me perguntar sobre minha jornada de aprendizado, estou sempre disposto a trocar ideias!  
+- 📫 Como me encontrar: [adicione seu e-mail ou LinkedIn].  
+- 😄 Pronomes: ele/dele.  
+- ⚡ Fato curioso: Antes de começar a estudar programação, montei uma Router CNC e me aventurei no mundo da automação. Agora estou focado em programar o futuro!  
+
+Obrigado por visitar meu perfil! 😊 Vamos construir coisas incríveis juntos! 🚀
+
+</br>
+
+<div align="center">
 
   ![Snake animation](https://github.com/Brunobigo/Brunobigo/blob/output/github-contribution-grid-snake-dark.svg)
   
