@@ -45,11 +45,15 @@ Obrigado por visitar meu perfil! 😊 Vamos construir coisas incríveis juntos! 
 
 </br>
 
+---
+
 <div align="center">
 
   ![Snake animation](https://github.com/Brunobigo/Brunobigo/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
+
+---
 
 <h2 align="center">
   CONTATO
@@ -63,6 +67,9 @@ Obrigado por visitar meu perfil! 😊 Vamos construir coisas incríveis juntos! 
   <a href="https://www.linkedin.com/in/bruno-bigo-bueno/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2" target="_blank"></a>
 
 </div>
+
+</br>
+</br>
 
 <div align="center">
   
