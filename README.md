@@ -25,7 +25,7 @@
   
   <a href="https://github.com/Brunobigo">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobigo&locale=pt-br&layout=compact&langs_count=7&theme=dark"/>
-  <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   
 </div>
 
@@ -33,11 +33,11 @@
 
 ## Sobre mim  
 - 🔭 No momento, estou desempregado, mas aberto a oportunidades e desafios na área de desenvolvimento.  
-- 🌱 Estou aprendendo tecnologias como [adicione as tecnologias que está estudando, ex: HTML, CSS, JavaScript, Node.js, etc.].  
+- 🌱 Estou aprendendo tecnologias como C, Python, Javascript, HTML e CSS.  
 - 👯 No futuro, quero colaborar em projetos open source e ajudar outros desenvolvedores com o que aprendi.  
 - 🤔 Estou em busca de orientação e dicas para crescer como desenvolvedor full stack.  
 - 💬 Fique à vontade para me perguntar sobre minha jornada de aprendizado, estou sempre disposto a trocar ideias!  
-- 📫 Como me encontrar: [adicione seu e-mail ou LinkedIn].  
+- 📫 Como me encontrar: [E-mail](mailto:contato@intratechinfo@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/bruno-bigo-bueno/).  
 - 😄 Pronomes: ele/dele.  
 - ⚡ Fato curioso: Antes de começar a estudar programação, montei uma Router CNC e me aventurei no mundo da automação. Agora estou focado em programar o futuro!  
 
