@@ -17,7 +17,7 @@
 </h1>
 
 > [!NOTE]\
->Me chamo Bruno Bueno, sou desenvolvedor em formação e estou em busca de novas oportunidades na área de tecnologia. Atualmente, estou focado em aprender e desenvolver minhas habilidades em programação front-end e back-end. Abaixo as linguagens que estou utilizando e sobre mim!
+> Me chamo Bruno Bueno, sou desenvolvedor em formação e estou em busca de novas oportunidades na área de tecnologia. Atualmente, estou focado em aprender e desenvolver minhas habilidades em programação front-end e back-end. Abaixo as linguagens que estou utilizando e sobre mim!
 
 </br>
 
@@ -25,7 +25,7 @@
   
   <a href="https://github.com/Brunobigo">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobigo&locale=pt-br&layout=compact&langs_count=7&theme=dark"/>
-  <!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobigo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   
 </div>
 
