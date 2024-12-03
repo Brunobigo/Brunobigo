@@ -31,7 +31,12 @@
 
 </br>
 
-## Sobre mim  
+<h2 align="center">
+
+  Sobre mim
+  
+</h2>
+
 - 🔭 No momento, estou desempregado, mas aberto a oportunidades e desafios na área de desenvolvimento.  
 - 🌱 Estou aprendendo tecnologias como C, Python, Javascript, HTML e CSS.  
 - 👯 No futuro, quero colaborar em projetos open source e ajudar outros desenvolvedores com o que aprendi.  
@@ -56,7 +61,7 @@ Obrigado por visitar meu perfil! 😊 Vamos construir coisas incríveis juntos! 
 ---
 
 <h2 align="center">
-  CONTATO
+  Contato
 </h2>
 
 <div align="center">
