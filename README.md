@@ -73,8 +73,18 @@ Obrigado por visitar meu perfil! 😊 Vamos construir coisas incríveis juntos! 
 
 </div>
 
-</br>
-</br>
+---
+
+<div align="center">
+  <h3><b>📍 Contador de visitantes</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Brunobigo/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
 <div align="center">
   
